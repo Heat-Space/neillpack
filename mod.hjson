@@ -6,4 +6,4 @@ version: "1.0"
 minGameVersion: "136"
 dependencies: [ ]
 hidden: true
-repo: " "
+repo: "https://github.com/Heat-Space/neillpack"
