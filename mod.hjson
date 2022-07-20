@@ -1,0 +1,9 @@
+name: "neillpack"
+displayName: "Neill's Pack"
+author: Heat3Space
+description: "A small pack of units and turrets made to test out modding in v7"
+version: "1.0"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: true
+repo: " "

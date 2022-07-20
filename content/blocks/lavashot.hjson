@@ -1,0 +1,33 @@
+type: PowerTurret
+name: Lavashot
+size: 4
+health: 4000
+range: 200
+rotateSpeed: 100
+reloadTime: 100
+burstSpacing: 3
+shots: 10
+xRand: 5
+powerUse: 100
+recoilAmount: 3
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.5
+    booster: true
+  }
+  power: 10
+}
+shootSound: laser
+shootType: {
+  type: LaserBulletType
+  length: 220
+  width: 40
+  damage: 90
+  colors: [ffffff,ffa203,ffa203,ffffff]
+}		
+requirements: [
+	thorium/35
+]
+category: turret
+research: meltdown
